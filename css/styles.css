@@ -11,6 +11,14 @@
 
 }
 
+.projectRow{
+  justify-content: center;
+
+}
+
+.imageContainer{
+  height: 200px;
+}
 
 
 :root {
